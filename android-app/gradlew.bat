@@ -1,4 +1,2 @@
 @echo off
-set DIRNAME=%~dp0
-set CLASSPATH=%DIRNAME%\gradle\wrapper\gradle-wrapper.jar
-java -classpath "%CLASSPATH%" org.gradle.wrapper.GradleWrapperMain %*
+java -classpath "%~dp0\gradle\wrapper\gradle-wrapper.jar" org.gradle.wrapper.GradleWrapperMain %*

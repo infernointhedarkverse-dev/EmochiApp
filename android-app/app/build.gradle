@@ -6,12 +6,12 @@ plugins {
   
 android {  
     namespace 'com.emochi.app'  
-    compileSdk 30  
+    compileSdk 34  
     buildToolsVersion "30.0.3"
     defaultConfig {  
         applicationId "com.emochi.app"  
         minSdk 24  
-        targetSdk 30  
+        targetSdk 34  
         versionCode 1  
         versionName "1.0"  
     }  
