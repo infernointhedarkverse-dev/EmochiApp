@@ -1,0 +1,14 @@
+{
+  "Vanilla": "ollama",
+  "Vanilla Short": "ollama",
+  "Matcha": "ollama",
+  "Strawberry": "openai",
+  "Chocolate": "openai",
+  "Peach": "ollama",
+  "Blueberry": "openai",
+  "Mint": "openai",
+  "Blackberry": "openai",
+  "Rainbow": "openai",
+  "Unicorn": "openai",
+  "Sage": "openai"
+}
